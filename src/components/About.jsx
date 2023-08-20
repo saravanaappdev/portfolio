@@ -22,7 +22,7 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl">
-        👨‍💻 Currently, I'm proud to be a Software Engineer at Trane Technologies,
+        👨‍💻 Currently, I'm a Software Engineer at Trane Technologies,
           a pioneering force in the field of HVAC systems 🏭. Since February
           2023, I've been an integral part of the team, crafting React.js magic
           ✨, HVAC engineering marvels ❄️, home automation wonders 🏠, IoT
